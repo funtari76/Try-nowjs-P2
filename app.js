@@ -1,3 +1,13 @@
+function populate() {
+    if (quiz.isEnded()) {
+        //showScores();
+    } else {
+        // show qustion 
+        var element = document.getElementById("question");
+        element.innerHTML = quiz.getQuestionIndex().text;
+    }
+}
+
 var questions = [
     new Question("What is the capital of the USA?", ["Chicago", "Los Angeles", "Washington DC", "London"], "Washington DC"),
     new Question("What year did World War One begin?", ["1814", "1910", "1935", "1914", ], "1914"),
@@ -7,3 +17,7 @@ var questions = [
     new Question("Which language is most spoken in the world", ["Spanish", "Mandarin", "English", "French", ], "English", ),
     new Question("what language is spoken in Ireland", ["English", "Gaeilge", "Irish", "French", ], "English", )
 ];
+
+var quiz = new Quiz(questions);
+
+populate();
