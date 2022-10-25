@@ -1,11 +1,14 @@
-# Quizzy
+#
+#  Easy Quizzy
 
 <hr>
 <hr>
 
 ## PURPOSE
-
 <hr>
+Easy Quizzy is a easy quiz that is ment as a 'refresher' of general information that is easy to recall.
+* Here is a link to the [final project]
+
 <hr>
 
 
@@ -23,7 +26,7 @@
 ## USER STORIES
 
 * As a user, I want to easily understand the main purpose of the quiz
-* As a user, I want 
+* As a user, I want the quiz to be colorful 
 * As a user, I want to be able 
 * As a user, I want to 
 
