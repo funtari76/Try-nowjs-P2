@@ -62,11 +62,15 @@ Easy Quizzy is a easy quiz that is ment as a 'refresher' of general information 
 ## Lighthouse
 <hr>
 
+![](./assets/media/lighthouse01.jpg)
+
 ## Accessibility
 <hr>
 
 #
-# TECHNOLOGIES
+# TECHNOLOGIES:
+<hr>
+<hr>
 
 ## DEVELOPMENT
 
