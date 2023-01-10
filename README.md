@@ -23,7 +23,7 @@ Easy Quizzy is a easy quiz that is ment as a 'refresher' of general information 
 
 
 
-## USER STORIES
+### USER STORIES
 
 * As a user, I want to easily understand the main purpose of the quiz
 * As a user, I want the quiz to be colorful 
@@ -31,7 +31,11 @@ Easy Quizzy is a easy quiz that is ment as a 'refresher' of general information 
 * As a user, I want to 
 
 
-## WIREFRAMES
+### WIREFRAMES
+<hr>
+
+-------------------------
+
 <hr>
 
 
